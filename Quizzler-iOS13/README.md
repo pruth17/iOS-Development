@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Quizzler
 
 ## Our Goal
@@ -11,7 +8,7 @@ The goal of this tutorial is to take you one step further in your journey of bec
 
 You will program a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
 
-## What you will learn
+## Learning outcome
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
@@ -56,8 +53,3 @@ You will program a trivia quiz app. If you have another field of expertise such 
         Question(q: "What type of animal was Harambe?", a: ["Panda", "Gorilla", "Crocodile"], correctAnswer: "Gorilla"),
         Question(q: "Where is Tasmania located?", a: ["Indonesia", "Australia", "Scotland"], correctAnswer: "Australia")
 ```        
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
