@@ -16,7 +16,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var weightSlider: UISlider!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
     @IBAction func heightChange(_ sender: UISlider) {
